@@ -1,0 +1,11 @@
+Student_ID,Name,Age,Gender,Department,Marks,Attendance,Grade
+101,Aman,20.0,Male,CS,85.0,90,A
+102,Riya,21.0,Female,IT,78.0,85,B
+103,Karan,19.0,Male,CS,90.0,95,A
+104,Priya,22.0,Female,ECE,65.0,70,C
+105,Rahul,20.0,Male,IT,70.0,80,B
+106,Sneha,21.0,Female,CS,88.0,92,A
+107,Vikas,20.444444444444443,Male,ECE,92.0,96,A
+108,Neha,20.0,Female,IT,80.33333333333333,88,B
+109,Arjun,19.0,Male,CS,75.0,76,B
+110,Pooja,22.0,Female,ECE,80.0,85,B
